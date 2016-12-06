@@ -1,0 +1,7 @@
+1) Переименовать файл главного html - созданного Тильдой (например project125929.html в вайл index.html - это требование GITHUB).
+2) На github создать новую организацию например ExampleOrg и с таким же именем создавать репозиторий для сайта -- 
+ExampleOrg.github.io - ТОЛЬКО ТАК.
+
+ 3) Дальше если в файле index.html перед  <!DOCTYPE html> есть тег shadow - удаляем его
+
+ 4)В файле htaccess - меняем строку DirectoryIndex index.html  
