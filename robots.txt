@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow:
-Sitemap: http://gitfabrika.tilda.ws/sitemap.xml
-Host: gitfabrika.tilda.ws
